@@ -6,3 +6,16 @@ def myfunc():
   print("Eight is providing " + x)
 
 myfunc()
+
+
+[][]
+
+x = "freelancing services "
+
+def myfunc():
+  x = "products"
+  print("Eight Grene is selling " + x)
+
+myfunc()
+
+print("Eight Grene is providing " + x)
